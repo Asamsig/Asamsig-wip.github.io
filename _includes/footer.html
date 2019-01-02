@@ -3,6 +3,8 @@
 	{% if site.twitter_username %}
 		<p><a target='_blank' href="https://twitter.com/{{site.twitter_username}}">@{{site.twitter_username}}</a></p>
 	{% endif %}
-	<p>London, UK</p>
+	{% if site.location %}
+		<p>{{site.location}}</p>
+	{% endif %}
 	<br>
 </footer>

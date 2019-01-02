@@ -414,3 +414,6 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+.rightBorder {
+	padding-right: 0;
+}
