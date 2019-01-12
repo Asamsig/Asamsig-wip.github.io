@@ -24,6 +24,8 @@ skills:
  - Playframework
  - Slick
  - Akka
+ - Reactive Programming
+ - Functional Programming
  - Java
  - SQL
  - REST
@@ -64,12 +66,12 @@ certifications:
       date: December 15, 2018
     - title: Scala Programming for Data Science - Level 2
       link: https://www.youracclaim.com/badges/3c04c946-cbb7-4253-974f-874ed5566070
-      optionalimage: https://images.youracclaim.com/images/29e051f5-d33a-45ea-b5c3-64156561c614/Scala%2BPgrm%2Bfor%2BData%2BSci%2BLevel%2B2%2B-%2BCC.png
+      optionalimage: https://images.youracclaim.com/images/15e0b822-1ee8-461b-820b-0f015c9f0cd4/Scala%2BPgrm%2Bfor%2BData%2BSci%2BLevel%2B2%2B-%2BCC%2B-%2B2019.png
       imagesize: 110
       date: July 27, 2017
     - title: Scala Programming for Data Science - Level 1
       link: https://www.youracclaim.com/badges/8d469fe6-0a72-4757-8be1-1cd3198e2c19
-      optionalimage: https://images.youracclaim.com/images/cb0a29a2-a96f-485f-92ad-0dee9da015db/Scala%2BPgrm%2Bfor%2BData%2BSci%2BLevel%2B1%2B-%2BCC.png
+      optionalimage: https://images.youracclaim.com/images/386a13f1-5581-4f12-8728-9e3c09782524/Scala%2BPgrm%2Bfor%2BData%2BSci%2BLevel%2B1%2B-%2BCC%2B-%2B2019.png
       imagesize: 110
       date: July 02, 2017
 
